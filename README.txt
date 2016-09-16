@@ -1,4 +1,4 @@
-This is differential fault analysis on AES-128.
+This is differential power analysis on AES-128.
 (Thanks to Gabriel P. for help in preparing this challenge)
 
 Flag: MCA-9FDE15B1C325059E
